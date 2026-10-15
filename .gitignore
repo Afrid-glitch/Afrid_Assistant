@@ -1,0 +1,7 @@
+.env
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+faiss_profile_index/
